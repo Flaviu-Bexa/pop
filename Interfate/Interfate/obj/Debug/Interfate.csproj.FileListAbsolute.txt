@@ -1,0 +1,7 @@
+C:\Users\Daniel\Desktop\Interfate\Interfate\bin\Debug\Interfate.exe.config
+C:\Users\Daniel\Desktop\Interfate\Interfate\bin\Debug\Interfate.exe
+C:\Users\Daniel\Desktop\Interfate\Interfate\bin\Debug\Interfate.pdb
+C:\Users\Daniel\Desktop\Interfate\Interfate\obj\Debug\Interfate.csprojAssemblyReference.cache
+C:\Users\Daniel\Desktop\Interfate\Interfate\obj\Debug\Interfate.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\Interfate\Interfate\obj\Debug\Interfate.exe
+C:\Users\Daniel\Desktop\Interfate\Interfate\obj\Debug\Interfate.pdb
